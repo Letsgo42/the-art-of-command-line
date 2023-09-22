@@ -7,6 +7,7 @@ Some contributors are also assigned roles as maintainers.
 They have kindly agreed to review and help update future contributions for the translation or section they own.
 
 
+* [Luc Michel (Letsgo42)](https://github.com/Letsgo42)
 
 *Maintainers*
 
